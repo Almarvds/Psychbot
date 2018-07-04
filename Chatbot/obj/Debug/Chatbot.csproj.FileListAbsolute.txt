@@ -1,0 +1,81 @@
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot\Chatbot\bin\Debug\AIMLbot.dll
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot\Chatbot\obj\Debug\Chatbot.csprojResolveAssemblyReference.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot\Chatbot\obj\Debug\Chatbot.Form1.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot\Chatbot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.GenerateResource.Cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot\Chatbot\obj\Debug\Chatbot.pdb
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot w delay\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot w delay\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot w delay\Chatbot\bin\Debug\AIMLbot.dll
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot w delay\Chatbot\obj\Debug\Chatbot.csprojResolveAssemblyReference.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot w delay\Chatbot\obj\Debug\Chatbot.Form1.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot w delay\Chatbot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot w delay\Chatbot\obj\Debug\Chatbot.csproj.GenerateResource.Cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot w delay\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot w delay\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot w delay\Chatbot\obj\Debug\Chatbot.pdb
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot w delay\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot multiline\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot multiline\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot multiline\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot multiline\Chatbot\bin\Debug\AIMLbot.dll
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot multiline\Chatbot\obj\Debug\Chatbot.csprojResolveAssemblyReference.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot multiline\Chatbot\obj\Debug\Chatbot.Form1.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot multiline\Chatbot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot multiline\Chatbot\obj\Debug\Chatbot.csproj.GenerateResource.Cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot multiline\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot multiline\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot multiline\Chatbot\obj\Debug\Chatbot.pdb
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chatbot multiline\Chatbot\obj\Debug\Chatbot.csproj.CopyComplete
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program\Chatbot\bin\Debug\AIMLbot.dll
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program\Chatbot\obj\Debug\Chatbot.csprojResolveAssemblyReference.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program\Chatbot\obj\Debug\Chatbot.Form1.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program\Chatbot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program\Chatbot\obj\Debug\Chatbot.csproj.GenerateResource.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program\Chatbot\obj\Debug\Chatbot.csproj.CopyComplete
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program\Chatbot\obj\Debug\Chatbot.pdb
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V2\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V2\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V2\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V2\Chatbot\bin\Debug\AIMLbot.dll
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V2\Chatbot\obj\Debug\Chatbot.csprojResolveAssemblyReference.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V2\Chatbot\obj\Debug\Chatbot.Form1.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V2\Chatbot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V2\Chatbot\obj\Debug\Chatbot.csproj.GenerateResource.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V2\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V2\Chatbot\obj\Debug\Chatbot.csproj.CopyComplete
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V2\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V2\Chatbot\obj\Debug\Chatbot.pdb
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V3 - chat\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V3 - chat\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V3 - chat\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V3 - chat\Chatbot\bin\Debug\AIMLbot.dll
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V3 - chat\Chatbot\obj\Debug\Chatbot.Form1.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V3 - chat\Chatbot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V3 - chat\Chatbot\obj\Debug\Chatbot.csproj.GenerateResource.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V3 - chat\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V3 - chat\Chatbot\obj\Debug\Chatbot.csproj.CopyComplete
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V3 - chat\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V3 - chat\Chatbot\obj\Debug\Chatbot.pdb
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V3 - chat\Chatbot\obj\Debug\Chatbot.csprojResolveAssemblyReference.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V4\Chatbot\bin\Debug\Chatbot.exe.config
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V4\Chatbot\bin\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V4\Chatbot\bin\Debug\Chatbot.pdb
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V4\Chatbot\bin\Debug\AIMLbot.dll
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V4\Chatbot\obj\Debug\Chatbot.csprojResolveAssemblyReference.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V4\Chatbot\obj\Debug\Chatbot.Form1.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V4\Chatbot\obj\Debug\Chatbot.Properties.Resources.resources
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V4\Chatbot\obj\Debug\Chatbot.csproj.GenerateResource.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V4\Chatbot\obj\Debug\Chatbot.csproj.CoreCompileInputs.cache
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V4\Chatbot\obj\Debug\Chatbot.csproj.CopyComplete
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V4\Chatbot\obj\Debug\Chatbot.exe
+C:\Users\s159536\Documents\Visual Studio 2017\Projects\FBP\Chat program V4\Chatbot\obj\Debug\Chatbot.pdb
