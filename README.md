@@ -18,5 +18,5 @@ https://www.instructables.com/id/How-to-Make-a-Robot-That-Talks-Back-Using-AIML-
 Before running the code make sure to add the reference to the aiml library.
 If not automatically done for you, in your IDE implement a new reference, using the following path for the library: chatbot/bin/debug/aimlbot.dll
 
-This system uses a windows forms application as its way of communicating to the user. This allows it to have a more intricate front-end than just a command line interface. The chat application and the translation to a visual system using the existing Aiml libraries was done by me.
+This system uses a windows forms application as its way of communicating to the user. This allows it to have a more intricate front-end than just a command line interface. The chat application and the translation to a visual system using the existing Aiml libraries was all done by me.
 
