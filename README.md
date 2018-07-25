@@ -11,7 +11,8 @@ It is used as a basis for a number of command line applications that use Aiml in
 An example of a guide for such an application would be: 
 https://www.instructables.com/id/How-to-Make-a-Robot-That-Talks-Back-Using-AIML-in-/
 
-*building the app*
+*Building the app*
+
 Before running the code make sure to add the reference to the aiml library.
 If not automatically done for you, in your IDE implement a new reference, using the following path for the library: chatbot/bin/debug/aimlbot.dll
 
